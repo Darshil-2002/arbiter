@@ -9,3 +9,5 @@ Arbiter circuits can be implemented in hardware or software, depending on the ap
 Arbiter circuits are commonly used in computer systems, especially in multi-core processors and multi-tasking operating systems, to manage access to shared resources and ensure fair allocation of resources among competing processes or threads.
 
 ![Arbiter (2)](https://user-images.githubusercontent.com/103230236/227889231-70b866d7-0e9f-4596-bfc6-af8e1985a8e4.png)
+
+![image](https://user-images.githubusercontent.com/103230236/227891446-0d2af8cf-6be3-4cd5-ad9e-928ce998bbb3.png)
